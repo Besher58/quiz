@@ -1,0 +1,29 @@
+img{
+    width: 30%;
+    margin: 100px 35% 0;
+}
+h4{
+    text-align: center;
+}
+p{
+    display: inline;
+    border: solid 1px;
+    padding: 10px 30px;
+    margin: 0 30px 0 0;
+    color: white;
+    background: #000;
+}
+p:active{
+    background: red;
+}
+.answer:active{
+    background: green;
+}
+#container{
+    width: 50%;
+    margin: 30px 32%;
+}
+.container{
+    width: 50%;
+    margin: 30px 27%;
+}
